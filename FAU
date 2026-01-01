@@ -1,6 +1,6 @@
 {
-    "versionCode":0,
-    "versionName":"0.0.0",
+    "versionCode":1,
+    "versionName":"1.0.0",
     "contentText":"New version is available on Google Play Store !!!",
     "minSupport":24,
     "url":"https://play.google.com/store/apps/details?id=tunnel.guard.vpn"
