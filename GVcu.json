@@ -1,1 +1,49 @@
-
+{
+ "Version": "1.0",
+ "Timer": false,
+ "ReleaseNotes": "Welcome To Guruz VPN",
+ "Servers": [
+  {
+   "Name": "Guruz VPN",
+   "FLAG": "rc",
+   "ServerPort": "22",
+   "SSLPort": "443",
+   "TLSPort": "444",
+   "sPais": "test",
+   "isMinfo": "Guruz VPN ",
+   "isCustomServer": false,
+   "ServerIP": "g0f\/sD7+yq4O5cI+uBVTax1zE0Y=:JEMlMJu6+lDK7siA",
+   "ServerUser": "",
+   "ServerPass": "",
+   "Slowchave": "",
+   "Nameserver": "",
+   "UdpPort": "",
+   "UdpDown": "",
+   "UdpUp": "",
+   "OBFS": "",
+   "UdpUserPass": ""
+  }
+ ],
+ "Tweaks": [
+  {
+   "Name": "Guruz VPN ",
+   "FLAG": "rc",
+   "isMinfo": "test",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "isSSL": false,
+   "isPayloadSSL": false,
+   "isDirect": false,
+   "isInject": false,
+   "isUdp": true,
+   "isV2ray": false,
+   "isSlow": false,
+   "SNI": "",
+   "Payload": "",
+   "Slowdns": "",
+   "V2rayConfig": "",
+   "DirectWithPayload": false,
+   "ProxyWithPayload": false
+  }
+ ]
+}
